@@ -13,6 +13,12 @@ I'm a Software Engineer and learning passionate
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandro-castro-6b47bba4/)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/7111604/leandro-castro)
 
+# 📰 Teaching people:
+
+[![Youtube Channel](https://img.shields.io/badge/-Youtube_Channel:_Programando_Juntos-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@ProgramandoJuntosCanal)
+
+[![Blog](https://img.shields.io/badge/-Blog:_Programando_Juntos-yellow?logo=internetexplorer)](https://programandojuntos.com.br)
+
 # 💻 Tech Stack:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
