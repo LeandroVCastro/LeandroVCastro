@@ -2,7 +2,7 @@
 
 # 👨‍💻 About Me:
 
-I'm a Software Engineer and learning passionate
+I'm a Software Engineer and eternal learner
 
 - 🧖‍♂️ Javascript/Typescript & PHP master
 - 🌱 I’m currently learning Golang.
