@@ -5,7 +5,7 @@
 I'm a Software Engineer and an eternal learner
 
 - 🧖‍♂️ Javascript/Typescript & PHP master
-- 🌱 I’m currently learning Golang.
+- 🌱 I’m currently learning Unity Engine and Elixir.
 - 👯 I am available for any help related to these stacks.
 - 💬 Ask me about anything related to these stacks.
 - 📫 How to reach me:
